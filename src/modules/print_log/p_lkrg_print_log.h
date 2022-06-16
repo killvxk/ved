@@ -55,7 +55,7 @@
 
 
 // Signature in logs...
-#define P_LKRG_SIGNATURE "[p_lkrg] "
+#define P_LKRG_SIGNATURE "[VED] "
 
 //#define P_LKRG_PRINT __P_LKRG_CRIT
 
